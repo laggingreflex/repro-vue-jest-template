@@ -1,7 +1,8 @@
 {
   "scripts": {
     "start": "webpack-dev-server",
-    "test": "jest"
+    "test": "jest",
+    "tdd": "jest --watch"
   },
   "repository": "laggingreflex/repro-vue-jest-template",
   "dependencies": {
