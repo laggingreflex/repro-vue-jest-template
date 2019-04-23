@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "jest"
+  },
+  "repository": "laggingreflex/repro-vue-jest-template",
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "jest": "^24.7.1",
+    "vue-jest": "^4.0.0-beta.2",
+    "vue-loader": "^15.7.0",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1",
+    "webpack-dev-server": "^3.3.1"
+  }
+}
